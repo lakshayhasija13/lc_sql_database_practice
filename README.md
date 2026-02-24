@@ -17,3 +17,8 @@ A collection of LeetCode SQL problem solutions organized by problem number.
 | 9 | [584](584/) | [Find Customer Referee](584/README.md) | Easy | Database, WHERE |
 | 10 | [595](595/) | [Big Countries](595/README.md) | Easy | Database, WHERE |
 | 11 | [596](596/) | [Classes More Than 5 Students](596/README.md) | Easy | Database, GROUP BY |
+| 12 | [1068](1068/) | [Product Sales Analysis I](1068/README.md) | Easy | Database, JOIN |
+| 13 | [1148](1148/) | [Article Views I](1148/README.md) | Easy | Database, WHERE |
+| 14 | [1378](1378/) | [Replace Employee ID With The Unique Identifier](1378/README.md) | Easy | Database, LEFT JOIN |
+| 15 | [1683](1683/) | [Invalid Tweets](1683/README.md) | Easy | Database, WHERE |
+| 16 | [1757](1757/) | [Recyclable and Low Fat Products](1757/README.md) | Easy | Database, WHERE |
